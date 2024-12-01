@@ -5,7 +5,8 @@ title: Home
 
 # About
 
-I am Maik Waigant—a dynamic IT enthusiast who continually redefines the boundaries of the possible. My career in IT started as a system administrator and has always been driven by my insatiable curiosity and passion for technological innovations. As a DevOps engineer, I have not only established myself in the art of problem-solving and effective strategy implementation, but also in the ability to transform complex challenges into creative solutions. My journey in the IT world is like an ongoing expedition, where I am always eager to deepen my knowledge and explore new horizons. With my unique combination of technical expertise and the ability to think outside the box, I stand for innovation and progress in the rapidly evolving digital landscape.
+I'm Thomas—an IT professional dedicated to advancing technology through practical, efficient solutions. My background spans from hands-on system management to specialized work in machine learning, robotic process automation, and AI. I’m passionate about turning complex challenges into streamlined, effective processes that drive innovation and productivity. From building intelligent workflows to staying at the forefront of AI developments, I’m committed to making technology a powerful tool in an ever-evolving digital world.
+
 
 <!-- 
 {% include archive.html %} -->
