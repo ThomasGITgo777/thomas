@@ -1,13 +1,13 @@
 title: Thomas Owtschinnikow
 description: AI and Prompt Engineer
-baseurl: ""
+#baseurl: ""
 url: https://piazzai.github.io/cvless
 
 #theme: cvless
 
 # site settings
-taglong: AI and Prompt Engineer
-tagshort: "- CV Information"
+#taglong: AI and Prompt Engineer
+#tagshort: "- CV Information"
 
 # author settings
 author:
