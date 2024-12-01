@@ -1,28 +1,28 @@
-title: Maik Waigant
-description: DevOps Engineer, Systemadministrator / Linux und Windows Administrator
+title: Thomas Owtschinnikow
+description: AI and Prompt Engineer
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
 #theme: cvless
 
 # site settings
-taglong: DevOps Engineer, Systemadministrator / Linux und Windows Administrator
+taglong: AI and Prompt Engineer
 tagshort: "- CV Information"
 
 # author settings
 author:
-  name: Maik Waigant
-  email: maik@waigant.com
+  name: Thomas Owtschinnikow
+  email: owtschinnikow.thomas@gmail.com
 photo: assets/files/photo.jpg
-address: Somewhere in Paphos
-phone: +49 151 10988349
+address: Somewhere in Limassol 
+phone: 
 
 # social media links
 social:
  # facebook: username
-  github: maikwaigant
+  github: ThomasGITgo777
  # instagram: username
-  linkedin: maikwaigant
+  linkedin: thomasowtschinnikow
  # stackoverflow: 0000000/username
  # x: username
 
